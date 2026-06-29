@@ -27,7 +27,7 @@
       "type": "image",
       "title": "Video Player for Fire TV",
       "description": "Watch videos in HD.",
-      "image": "https://boktoss2345.github.io/houseads/images/12m.jpg",
+      "image": "image": "https://boktoss2345.github.io/houseads/images/12m.jpg",
       "buttonText": "Install",
       "url": "https://www.amazon.com/dp/B0XXXXXXX",
       "packageName": "com.example.videoplayer"
