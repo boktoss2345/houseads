@@ -1,0 +1,14 @@
+{
+  "ads": [
+    {
+      "id": 1,
+      "enabled": true,
+      "title": "Video Player for Fire TV",
+      "description": "Watch videos in HD",
+      "icon": "https://example.com/icons/video.png",
+      "banner": "https://example.com/banners/video.jpg",
+      "button": "Install",
+      "url": "https://www.amazon.com/dp/B0XXXXXXX"
+    }
+  ]
+}
