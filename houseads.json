@@ -1,58 +1,61 @@
+```json
 {
-"config": {
-"enabled": true,
-"refreshOnAppStart": true,
-"cacheEnabled": true,
-"autoRotate": true,
-"rotationInterval": 10,
-"randomOrder": false,
-"maxItems": 20,
-"showIndicators": true,
-"showTitle": true,
-"showDescription": true,
-"showButton": true,
-"defaultButtonText": "Install",
-"openInExternalBrowser": true,
-"focusAnimation": true,
-"showOnlyEnabledItems": true,
-"bannerCornerRadius": 16,
-"bannerAspectRatio": "16:9"
-},
-"items": [
-{
-"id": 1,
-"enabled": true,
-"priority": 1,
-"type": "image",
-"title": "Video Player for Fire TV",
-"description": "Watch videos in HD.",
-"image": "https://boktoss2345.github.io/houseads/images/video-player.jpg",
-"buttonText": "Install",
-"url": "https://www.amazon.com/dp/B0XXXXXXX",
-"packageName": "com.example.videoplayer"
-},
-{
-"id": 2,
-"enabled": true,
-"priority": 2,
-"type": "video",
-"title": "Photo Gallery Premium",
-"description": "Watch the app preview.",
-"thumbnail": "https://boktoss2345.github.io/houseads/images/gallery-thumb.jpg",
-"video": "https://boktoss2345.github.io/houseads/videos/gallery-preview.mp4",
-"buttonText": "Watch",
-"url": "https://boktoss2345.github.io/houseads/videos/gallery-preview.mp4"
-},
-{
-"id": 3,
-"enabled": true,
-"priority": 3,
-"type": "image",
-"title": "Wallpaper TV",
-"description": "Beautiful 4K Wallpapers.",
-"image": "https://boktoss2345.github.io/houseads/images/wallpaper.jpg",
-"buttonText": "Open",
-"url": "https://www.amazon.com/dp/B0YYYYYYY"
+  "config": {
+    "enabled": true,
+    "refreshOnAppStart": true,
+    "cacheEnabled": true,
+    "autoRotate": true,
+    "rotationInterval": 10,
+    "randomOrder": false,
+    "maxItems": 20,
+    "showIndicators": true,
+    "showTitle": true,
+    "showDescription": true,
+    "showButton": true,
+    "defaultButtonText": "Install",
+    "openInExternalBrowser": true,
+    "focusAnimation": true,
+    "showOnlyEnabledItems": true,
+    "bannerCornerRadius": 16,
+    "bannerAspectRatio": "16:9"
+  },
+  "items": [
+    {
+      "id": 1,
+      "enabled": true,
+      "priority": 1,
+      "type": "image",
+      "title": "Video Player for Fire TV",
+      "description": "Watch videos in HD.",
+      "image": "https://boktoss2345.github.io/houseads/images/12m.jpg",
+      "buttonText": "Install",
+      "url": "https://www.amazon.com/dp/B0XXXXXXX",
+      "packageName": "com.example.videoplayer"
+    },
+    {
+      "id": 2,
+      "enabled": true,
+      "priority": 2,
+      "type": "image",
+      "title": "Photo Gallery Premium",
+      "description": "Fast Photo Viewer for Fire TV.",
+      "image": "https://boktoss2345.github.io/houseads/images/12m.jpg",
+      "buttonText": "Open",
+      "url": "https://www.amazon.com/dp/B0YYYYYYY",
+      "packageName": "com.example.photogallery"
+    },
+    {
+      "id": 3,
+      "enabled": true,
+      "priority": 3,
+      "type": "image",
+      "title": "Wallpaper TV",
+      "description": "Beautiful 4K Wallpapers.",
+      "image": "https://boktoss2345.github.io/houseads/images/12m.jpg",
+      "buttonText": "Install",
+      "url": "https://www.amazon.com/dp/B0ZZZZZZZ",
+      "packageName": "com.example.wallpaper"
+    }
+  ]
 }
-]
-}
+```
